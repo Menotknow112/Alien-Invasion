@@ -8,7 +8,8 @@ Right: Move right
 Space: Shoot
 
 Current state:
- ![image](https://github.com/Menotknow112/Alien-Invasion/assets/157895877/7a42bc2b-6544-421c-88a5-b41e3691ab25)
+ ![image](https://github.com/Menotknow112/Alien-Invasion/assets/157895877/20ca3441-f2a9-421f-9b8e-739b01c0ca85)
+
 
  
 
