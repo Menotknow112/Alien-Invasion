@@ -1,13 +1,17 @@
 Running: 
 
 $ pip install pygame
+
 $ python main.py
 
 Controls:
 
 Left Arrow: Move left
+
 Right Arrow: Move right
+
 Space: Shoot
+
 
 Current state:
 
